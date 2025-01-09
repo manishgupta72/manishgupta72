@@ -1,71 +1,70 @@
-# Hi there! 👋 I'm **Manish Gupta**
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="80">
+  <h1>Hi there, I'm <span style="color: #0078FF;">Manish Gupta</span> 👋</h1>
+  <h3>A Full Stack Developer 🚀 | Lifelong Learner 💡 | Cricket Enthusiast 🏏</h3>
+</div>
 
 ---
 
-## 🚀 Full Stack Developer
-
-A passionate Full Stack Developer based in **Mumbai**, specializing in **PHP**, **Laravel**, and **ReactJS**. I am always excited to learn new technologies and improve my skills. I love collaborating on web-based projects and connecting with fellow developers.
-
----
-
-### 🌟 About Me
-
-- 🌍 I'm based in **Mumbai**
-- 🖥️ [**Portfolio Website**](https://manishgupta72.netlify.app/)
-- ✉️ Email me at [manishgupta724872@gmail.com](mailto:manishgupta724872@gmail.com)
-- 🧠 Currently learning **Cloud DevOps**
-- 🤝 Open to collaborating on **web-based projects**
-- ⚡ Fun fact: I love playing **cricket**!
+### About Me 🧑‍💻
+- 🌍 Based in **Mumbai, India**
+- 🖥️ Check out my [Portfolio Website](https://manishgupta72.netlify.app/)
+- ✉️ Reach me at: [manishgupta724872@gmail.com](mailto:manishgupta724872@gmail.com)
+- 🧠 Currently exploring **Cloud DevOps**
+- 🤝 Open to collaborating on **Web-based Projects**
+- ⚡ Fun fact: I love solving tech problems and playing cricket!
 
 ---
 
-## 🔗 Connect with Me:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manishgupta724464)
-[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/manishgupta72)
-
----
-
-## 🛠️ Skills and Tools
-
-### **Languages & Frameworks**
-
-![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![NodeJS](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-### **Tools & Platforms**
-
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-%23764ABC.svg?style=for-the-badge&logo=redux&logoColor=white)
-
-### **Other Skills**
-
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+### 🔧 Skills & Tools
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=php,laravel,react,js,html,css,tailwind,docker,java,mysql,nodejs,python,aws" alt="Skills" />
+</div>
 
 ---
 
-## 📊 GitHub Stats
+### 📈 Stats & Contributions
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=manishgupta724464&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manishgupta724464&theme=radical" width="48%" />
+</div>
 
-![Manish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=manishgupta72&show_icons=true&theme=radical)
+---
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manishgupta72&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+### 📫 Connect with Me
+<div align="center">
+  <a href="https://linkedin.com/in/manishgupta724464" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/manishgupta724464" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:manishgupta724872@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
 
 ---
 
-### ✨ Fun Fact:
-> "I am a Software Engineer who loves to explore new technologies and hit the cricket field!"
+### 🔥 Latest Projects
+<div align="center">
+  <h3>Employee Service</h3>
+  <p>A modern CRUD app using Java Spring Boot & React.js</p>
+  <a href="#"><img src="https://img.shields.io/badge/Explore-Project-4CAF50?style=for-the-badge&logo=Spring" /></a>
+  
+  <h3>Laravel-React Dashboard</h3>
+  <p>Highly efficient, real-time dashboard with throttling and advanced features</p>
+  <a href="#"><img src="https://img.shields.io/badge/Explore-Dashboard-4CAF50?style=for-the-badge&logo=laravel" /></a>
+</div>
 
 ---
+
+### ✨ Fun Animations
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=0078FF&center=true&width=435&lines=Welcome+to+my+profile!;I+love+building+amazing+apps!;Let%27s+collaborate+on+projects!" alt="Typing SVG" />
+</div>
+
+---
+
+### ⚡ Let's Collaborate!
+If you're looking for a passionate and skilled developer for your next big idea or need help solving technical problems, feel free to reach out. Let's build something awesome together!

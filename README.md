@@ -2,15 +2,20 @@
 
 ---
 
-## 🚀 Full Stack Developer
+I’m a Full Stack Developer with 1.5+ years of real-world experience and 20+ full projects built across Laravel, React.js, NextJs , Node.js, Spring Boot, MySQL, and MongoDB — including AI-powered tools.
 
-A passionate Full Stack Developer based in **Mumbai**, specializing in **PHP**, **Laravel**, and **ReactJS**. I am always excited to learn new technologies and improve my skills. I love collaborating on web-based projects and connecting with fellow developers.
+I recently created “AI Blog Assistant,” a full-stack product that generates and manages blogs using OpenRouter (ChatGPT), deployed with MongoDB, TailwindCSS, and a clean scalable architecture.
+
+Whether it’s building CRMs, dashboards, admin panels, or AI integrations — I’m passionate about delivering end-to-end solutions that work beautifully and scale efficiently.
+
+Let’s build something impactful together 🚀 
+📫 manishgupta724872@gmail.com | https://manishgupta72.netlify.app/
 
 ---
 
 ### 🌟 About Me
 
-- 🌍 I'm based in **Mumbai**
+- 🌍 I'm based in **Delhi**
 - 🖥️ [**Portfolio Website**](https://manishgupta72.netlify.app/)
 - ✉️ Email me at [manishgupta724872@gmail.com](mailto:manishgupta724872@gmail.com)
 - 🧠 Currently learning **Cloud DevOps**

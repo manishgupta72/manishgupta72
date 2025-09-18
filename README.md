@@ -61,10 +61,9 @@ Recently, I built **AI Blog Assistant** — a scalable full-stack product that g
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=manishgupta72&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manishgupta72&layout=compact&langs_count=8&theme=tokyonight" />
-</div>
+![GitHub followers](https://img.shields.io/github/followers/manishgupta72?label=Followers&style=for-the-badge)  
+![GitHub stars](https://img.shields.io/github/stars/manishgupta72?label=Stars&style=for-the-badge)  
+
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=manishgupta72&theme=tokyonight&hide_border=false" />

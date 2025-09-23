@@ -1,69 +1,94 @@
-# Hi there! 👋 I'm Manish Gupta
+# Hi there! 👋 I'm Manish Gupta  
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=4F46E5&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Full-Stack+Developer;Laravel+%7C+React+%7C+Next.js+%7C+Spring+Boot;Building+AI+%26+Web+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=4F46E5&center=true&vCenter=true&multiline=true&width=900&height=100&lines=Software+Engineer+%7C+Laravel%2C+SpringBoot%2C+React.js%2C+Node.js;Cloud+(AWS)+%7C+Passionate+about+DSA+%26+Scalable+Systems" alt="Typing SVG" />
 </div>
 
 <p align="center">
-  <em>A passionate Full-Stack Developer from Delhi, India 🇮🇳</em><br>
-  <em>20+ Projects • End-to-End Web Solutions • AI-Powered Apps</em>
+  <em>A passionate Software Engineer from Delhi, India 🇮🇳</em><br>
+  <em>Nearly 2 years experience • SaaS & Web Solutions • Cloud Deployments</em>
 </p>
 
 <div align="center">
   <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding" width="350" />
 </div>
 
-I'm a self-driven developer with **1.5+ years of real-world experience** in building CRMs, dashboards, SaaS tools, and AI integrations.  
-Recently, I built **AI Blog Assistant** — a scalable full-stack product that generates and manages blogs with **OpenRouter (ChatGPT)** + **MongoDB + TailwindCSS**.
+---
 
-- 🌱 **Currently learning:** Cloud & DevOps (AWS, Docker, Linux, Kubernetes)  
-- 💻 **Ask me about:** Laravel, React, Next.js, Node.js, Spring Boot, REST APIs, AI integrations  
-- 🤝 **Looking to collaborate on:** SaaS products, dashboards, and impactful AI tools  
-- ⚡ **Fun fact:** I love playing **Cricket** 🏏  
+## 👨‍💻 About Me  
+
+Hi, I’m **Manish Gupta**, a Software Engineer with nearly **2 years of experience** building scalable web applications and SaaS products.  
+
+At **RB Tech Solutions**, I have:  
+- 🚀 Delivered **15+ client projects** using **Laravel, React.js, Node.js, and PostgreSQL**  
+- ⚡ Designed and implemented **REST APIs**, optimized SQL queries, and improved performance by **30%**  
+- ☁️ Deployed applications on **AWS (EC2, S3, RDS)** ensuring high availability and reliability  
+- 🔧 Contributed across the **full development lifecycle** — from coding and debugging to production deployment  
+
+I enjoy working on projects that solve **real-world problems at scale** and collaborating in Agile/Scrum teams to deliver impact.  
+
+Currently, I actively practice:  
+- 📘 **Data Structures & Algorithms (DSA)** for problem-solving  
+- 🏗 **System Design** for large-scale distributed applications  
+- ☁️ Expanding cloud expertise with **AWS services**  
+
+🎯 **Long-term goal:** To grow into a high-impact Software Engineer capable of solving complex scalability challenges in global tech companies.  
+
+💡 Let’s connect if you’re working on **scalable web applications, SaaS platforms, or cloud-based systems** — always open to collaboration and opportunities.  
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack  
 
 ### Languages  
-<div align="center">
-  
+<div align="center">  
+ 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 
 </div>
 
 ### Frontend  
-<div align="center">
+<div align="center">  
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)  
 
 </div>
 
 ### Backend  
-<div align="center">
+<div align="center">  
 
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
 
 </div>
 
+### Cloud & Tools  
+<div align="center">  
+
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+
+</div>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats  
 
 ![GitHub followers](https://img.shields.io/github/followers/manishgupta72?label=Followers&style=for-the-badge)  
 ![GitHub stars](https://img.shields.io/github/stars/manishgupta72?label=Stars&style=for-the-badge)  
-
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=manishgupta72&theme=tokyonight&hide_border=false" />
@@ -75,7 +100,7 @@ Recently, I built **AI Blog Assistant** — a scalable full-stack product that g
 
 ---
 
-## 🎯 My Developer Profile
+## 🎯 My Developer Profile  
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
 
@@ -93,7 +118,7 @@ Recently, I built **AI Blog Assistant** — a scalable full-stack product that g
 <div style="flex: 1; min-width: 250px; background: #0d1117; padding: 15px; border-radius: 10px; border: 1px solid #4f46e5;">
   <h3>🎯 Current Focus</h3>
   <ul style="text-align: left;">
-    <li>☁️ Cloud & DevOps (AWS, Docker, Linux)</li>
+    <li>☁️ Cloud & DevOps (AWS, Docker, Linux, Kubernetes)</li>
     <li>📚 Advanced DSA & System Design</li>
     <li>🚀 AI + Web App Integrations</li>
   </ul>
@@ -113,7 +138,7 @@ Recently, I built **AI Blog Assistant** — a scalable full-stack product that g
 
 ---
 
-## 🌟 Beyond Coding
+## 🌟 Beyond Coding  
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
 
@@ -133,14 +158,14 @@ Recently, I built **AI Blog Assistant** — a scalable full-stack product that g
 
 <div align="center">
 
-## 🤝 Let's Connect!
+## 🤝 Let's Connect!  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manishgupta724464)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-4f46e5?style=for-the-badge&logo=google-chrome&logoColor=white)](https://manishgupta72.netlify.app/)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manishgupta724872@gmail.com)  
 
-<img src="https://komarev.com/ghpvc/?username=manishgupta72&color=4f46e5&style=for-the-badge" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=manishgupta72&color=4f46e5&style=for-the-badge" alt="Profile Views" />  
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=fadeIn" />  
 
 </div>

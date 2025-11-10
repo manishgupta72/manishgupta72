@@ -1,6 +1,6 @@
 <img width="900" height="1602" alt="download" src="https://github.com/user-attachments/assets/953c85c2-9319-49cc-8925-ac092924c622" /># Hi there! 👋 I'm Manish Gupta  
 
-<img width="900" height="1602" alt="download" src="[https://github.com/user-attachments/assets/953c85c2-9319-49cc-8925-ac092924c622](https://assets.leetcode.com/static_assets/others/lg2550.png)" />
+<img width="500" height="200"  src="[https://github.com/user-attachments/assets/953c85c2-9319-49cc-8925-ac092924c622](https://assets.leetcode.com/static_assets/others/lg2550.png)" />
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=4F46E5&center=true&vCenter=true&multiline=true&width=900&height=100&lines=Software+Engineer+%7C+Laravel%2C+SpringBoot%2C+React.js%2C+Node.js;Cloud+(AWS)+%7C+Passionate+about+DSA+%26+Scalable+Systems" alt="Typing SVG" />

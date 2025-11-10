@@ -1,4 +1,4 @@
-<img width="900" height="1602" alt="download" src="https://github.com/user-attachments/assets/953c85c2-9319-49cc-8925-ac092924c622" /># Hi there! 👋 I'm Manish Gupta  
+   <h1 align="center"> Hi there! 👋 I'm Manish Gupta</h1>  
 
 
 <div align="center">
@@ -11,7 +11,7 @@
 </p>
 
 <div align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding" width="350" />
+  <img src="https://github.com/user-attachments/assets/953c85c2-9319-49cc-8925-ac092924c622" alt="Coding" width="350" height="500" />
 </div>
 
 ---

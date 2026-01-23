@@ -2,7 +2,7 @@
 
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=4F46E5&center=true&vCenter=true&multiline=true&width=900&height=100&lines=Software+Engineer+%7C+Laravel%2C+SpringBoot%2C+React.js%2C+Node.js;Cloud+(AWS)+%7C+Passionate+about+DSA+%26+Scalable+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=4F46E5&center=true&vCenter=true&multiline=true&width=900&height=100&lines=Software+Engineer+%7C+Laravel%2C+Next.js%2C+React.js%2C+Node.js;Cloud+(AWS)+%7C+Passionate+about+DSA+%26+Scalable+Systems" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -67,7 +67,6 @@ Currently, I actively practice:
 <div align="center">  
 
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
 
 </div>

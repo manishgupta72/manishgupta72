@@ -6,8 +6,8 @@
 </div>
 
 <p align="center">
-  <em>A passionate Software Engineer from Delhi, India 🇮🇳</em><br>
-  <em>Nearly 2 years experience • SaaS & Web Solutions • Cloud Deployments</em>
+  <em>A passionate Software Engineer from Gurugram, India 🇮🇳</em><br>
+  <em>2 years experience • SaaS & Web Solutions • Cloud Deployments</em>
 </p>
 
 <div align="center">
@@ -21,7 +21,7 @@
 Hi, I’m **Manish Gupta**, a Software Engineer with nearly **2 years of experience** building scalable web applications and SaaS products.  
 
 At **RB Tech Solutions**, I have:  
-- 🚀 Delivered **15+ client projects** using **Laravel, React.js, Node.js, and PostgreSQL**  
+- 🚀 Delivered **25+ client projects** using **PHP, Laravel, Node.js, React.js, Next.js, MySql and PostgreSQL**  
 - ⚡ Designed and implemented **REST APIs**, optimized SQL queries, and improved performance by **30%**  
 - ☁️ Deployed applications on **AWS (EC2, S3, RDS)** ensuring high availability and reliability  
 - 🔧 Contributed across the **full development lifecycle** — from coding and debugging to production deployment  

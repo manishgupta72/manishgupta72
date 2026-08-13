@@ -107,6 +107,6 @@ Built and shipped 6 enterprise-grade products used by thousands of end users, ow
 
 I'm actively looking for **Java / Spring Boot Backend Engineer** roles. If you're hiring or know a team that is, I'd love to talk!
 
-📧 **manishgupta724872@gmail.com**  · 💼 [LinkedIn](https://www.linkedin.com/in/manishgupta724464)  · 🌐 [Portfolio](https://manishgupta.exobyte.in)
+📧 **manishgupta724872@gmail.com**  · 💼 [LinkedIn](https://www.linkedin.com/in/manishgupta724464)  
 
 <p align="center"><i>⭐️ Thanks for stopping by — open to interviews, referrals, and collaborations!</i></p>

@@ -40,17 +40,6 @@ Built and shipped 6 enterprise-grade products used by thousands of end users, ow
 
 ---
 
-## 📌 Featured Projects
-
-| Project | Domain | Highlights |
-|---|---|---|---|
-| **Enterprise HRMS Platform** | HRMS  | Payroll, attendance, leave management, employee self-service portal, RBAC, notifications, PWA support |
-| **Recruitment Management System** | CRM / Recruitment  | Candidate lifecycle, interview scheduling, document verification, visa processing, recruiter dashboards |
-| **Business CRM Platform** | CRM  | Lead management, service/content management, analytics dashboard, workflow automation |
-| **Financial Management Platform** | Finance | Secure customer & document management, credit info handling, audit logging, admin dashboards |
-| **Enterprise Admin Portal** | Enterprise  | Centralized user/role/permission management, system config, dashboard analytics & monitoring |
-| **AI Content Platform** | AI / SaaS  | AI-powered content generation, media management, auto-save, content editing dashboard |
-
 
 
 ---
@@ -110,13 +99,7 @@ Built and shipped 6 enterprise-grade products used by thousands of end users, ow
 
 ## 📈 GitHub Stats
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=manishgupta72&show_icons=true&theme=tokyonight" alt="Manish's GitHub Stats" />
-<br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=manishgupta72&theme=tokyonight" alt="Manish's GitHub Streak" />
-<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manishgupta72&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=manishgupta72&show_icons=true&theme=tokyonight" alt="Manish's GitHub Stats" /> <br> <img src="https://github-readme-streak-stats.herokuapp.com/?user=manishgupta72&theme=tokyonight" alt="Manish's GitHub Streak" /> <br> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manishgupta72&layout=compact&theme=tokyonight" alt="Top Languages" /> </p>
 
 ---
 

@@ -42,18 +42,16 @@ Built and shipped 6 enterprise-grade products used by thousands of end users, ow
 
 ## 📌 Featured Projects
 
-| Project | Domain | Stack | Highlights |
+| Project | Domain | Highlights |
 |---|---|---|---|
-| **Enterprise HRMS Platform** | HRMS | *(add: Spring Boot or other)* | Payroll, attendance, leave management, employee self-service portal, RBAC, notifications, PWA support |
-| **Recruitment Management System** | CRM / Recruitment | *(add: Spring Boot or other)* | Candidate lifecycle, interview scheduling, document verification, visa processing, recruiter dashboards |
-| **Business CRM Platform** | CRM | *(add: Spring Boot or other)* | Lead management, service/content management, analytics dashboard, workflow automation |
-| **Financial Management Platform** | Finance | *(add: Spring Boot or other)* | Secure customer & document management, credit info handling, audit logging, admin dashboards |
-| **Enterprise Admin Portal** | Enterprise | *(add: Spring Boot or other)* | Centralized user/role/permission management, system config, dashboard analytics & monitoring |
-| **AI Content Platform** | AI / SaaS | *(add: Spring Boot or other)* | AI-powered content generation, media management, auto-save, content editing dashboard |
+| **Enterprise HRMS Platform** | HRMS  | Payroll, attendance, leave management, employee self-service portal, RBAC, notifications, PWA support |
+| **Recruitment Management System** | CRM / Recruitment  | Candidate lifecycle, interview scheduling, document verification, visa processing, recruiter dashboards |
+| **Business CRM Platform** | CRM  | Lead management, service/content management, analytics dashboard, workflow automation |
+| **Financial Management Platform** | Finance | Secure customer & document management, credit info handling, audit logging, admin dashboards |
+| **Enterprise Admin Portal** | Enterprise  | Centralized user/role/permission management, system config, dashboard analytics & monitoring |
+| **AI Content Platform** | AI / SaaS  | AI-powered content generation, media management, auto-save, content editing dashboard |
 
-> 💡 Every project above was built and shipped to real users — not tutorials or clones — covering the full SDLC: requirements → design → build → deploy → optimize → support.
->
-> ⚠️ **Fill in the Stack column honestly per project.** If some of these were built in Laravel/Node rather than Spring Boot, say so — it's still strong backend experience, and an interviewer asking "walk me through your Spring Boot setup here" will catch a stack that isn't real fast. Lead with whichever project genuinely used Spring Boot.
+
 
 ---
 

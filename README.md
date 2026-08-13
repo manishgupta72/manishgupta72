@@ -9,7 +9,6 @@
 <p align="center">
 📧 manishgupta724872@gmail.com &nbsp;|&nbsp;
 💼 <a href="https://www.linkedin.com/in/manishgupta724464">LinkedIn</a> &nbsp;|&nbsp;
-🌐 <a href="https://manishgupta.exobyte.in">Portfolio</a> &nbsp;|&nbsp;
 🐙 <a href="https://github.com/manishgupta72">GitHub</a>
 </p>
 

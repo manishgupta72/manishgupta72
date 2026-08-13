@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Manish Gupta</h1>
 
-<h3 align="center">Backend Software Engineer | Java • Spring Boot • REST APIs • System Design</h3>
+<h3 align="center">Java Spring Boot Developer | Backend Engineer | REST APIs | System Design</h3>
 
 <p align="center">
-2+ years building enterprise-grade backend systems across Banking, Finance, HRMS, CRM, SaaS, Education, Healthcare & E-commerce.
+2+ years building secure, production-grade backend systems with Java, Spring Boot, and Spring Security — across HRMS, CRM, Finance, and SaaS platforms serving 5,000+ active users.
 </p>
 
 <p align="center">
@@ -17,11 +17,11 @@
 
 ## 🧭 Professional Summary
 
-Backend Software Engineer with **2+ years of professional experience** designing, developing, and maintaining production-grade enterprise applications end-to-end — from requirement analysis and database design to API development, deployment, optimization, and live production support.
+Backend Engineer with **2+ years of professional experience** building secure REST APIs with **Java, Spring Boot, Spring Security, and Hibernate/JPA** — from database design and API development through deployment, optimization, and live production support.
 
-Proven track record delivering **6+ full-scale enterprise platforms** (HRMS, Recruitment CRM, Business CRM, Financial Management, Admin Portal, and an AI Content Platform) used by real businesses in production. Strong hands-on experience with **secure REST API development, RBAC-based authentication/authorization, SQL query optimization, caching strategies, and third-party integrations**.
+Delivered **6+ full-scale enterprise platforms** (HRMS, Recruitment CRM, Business CRM, Financial Management, Admin Portal, AI Content Platform) used by real businesses in production. Core strengths: **secure REST API design, RBAC-based authentication/authorization with Spring Security, SQL query optimization with Hibernate/JPA, Redis caching, and third-party integrations.**
 
-Currently deepening expertise in the **Java + Spring Boot ecosystem**, actively strengthening **System Design, Microservices, and Distributed Systems** fundamentals to take on larger-scale backend engineering challenges. Looking for my next opportunity as a **Java / Spring Boot Backend Engineer** where I can bring production-tested backend judgment to a modern, scalable tech stack.
+Actively strengthening **System Design, Microservices, and Distributed Systems** to take on larger-scale backend engineering challenges. Looking for my next opportunity as a **Java / Spring Boot Backend Engineer**.
 
 ---
 
@@ -32,27 +32,29 @@ Currently deepening expertise in the **Java + Spring Boot ecosystem**, actively 
 
 Built and shipped 6 enterprise-grade products used by thousands of end users, owning backend architecture end-to-end.
 
-- 🏗️ Designed backend architecture & REST APIs for multi-tenant business applications
-- 🔐 Implemented authentication, authorization & **Role-Based Access Control (RBAC)**
-- ⚡ Optimized SQL queries and introduced **caching strategies** to improve performance
-- 🔄 Automated business workflows and integrated **third-party APIs**
-- 🚀 Owned **production deployment**, monitoring, bug-fixing & live support
-- 🗄️ Designed and normalized relational database schemas for complex domains
+- 🏗️ Designed **Java Spring Boot REST APIs** for multi-tenant business applications
+- 🔐 Implemented **Spring Security** — JWT authentication, role-based access control (RBAC)
+- 🗄️ Designed relational schemas with **Hibernate/JPA**, optimized SQL queries and indexing
+- ⚡ Introduced **Redis caching strategies** to cut response times under load
+- 🔄 Automated business workflows and integrated third-party APIs
+- 🚀 Owned production deployment (Docker, AWS EC2), monitoring, and live support
 
 ---
 
 ## 📌 Featured Projects
 
-| Project | Domain | Highlights |
-|---|---|---|
-| **Enterprise HRMS Platform** | HRMS | Payroll, attendance, leave management, employee self-service portal, RBAC, notifications, PWA support |
-| **Recruitment Management System** | CRM / Recruitment | Candidate lifecycle, interview scheduling, document verification, visa processing, recruiter dashboards |
-| **Business CRM Platform** | CRM | Lead management, service/content management, analytics dashboard, workflow automation |
-| **Financial Management Platform** | Finance | Secure customer & document management, credit info handling, audit logging, admin dashboards |
-| **Enterprise Admin Portal** | Enterprise | Centralized user/role/permission management, system config, dashboard analytics & monitoring |
-| **AI Content Platform** | AI / SaaS | AI-powered content generation, media management, auto-save, content editing dashboard |
+| Project | Domain | Stack | Highlights |
+|---|---|---|---|
+| **Enterprise HRMS Platform** | HRMS | *(add: Spring Boot or other)* | Payroll, attendance, leave management, employee self-service portal, RBAC, notifications, PWA support |
+| **Recruitment Management System** | CRM / Recruitment | *(add: Spring Boot or other)* | Candidate lifecycle, interview scheduling, document verification, visa processing, recruiter dashboards |
+| **Business CRM Platform** | CRM | *(add: Spring Boot or other)* | Lead management, service/content management, analytics dashboard, workflow automation |
+| **Financial Management Platform** | Finance | *(add: Spring Boot or other)* | Secure customer & document management, credit info handling, audit logging, admin dashboards |
+| **Enterprise Admin Portal** | Enterprise | *(add: Spring Boot or other)* | Centralized user/role/permission management, system config, dashboard analytics & monitoring |
+| **AI Content Platform** | AI / SaaS | *(add: Spring Boot or other)* | AI-powered content generation, media management, auto-save, content editing dashboard |
 
-> 💡 Every project above was built and shipped to real users — not tutorials or clones — covering the **full SDLC**: requirements → design → build → deploy → optimize → support.
+> 💡 Every project above was built and shipped to real users — not tutorials or clones — covering the full SDLC: requirements → design → build → deploy → optimize → support.
+>
+> ⚠️ **Fill in the Stack column honestly per project.** If some of these were built in Laravel/Node rather than Spring Boot, say so — it's still strong backend experience, and an interviewer asking "walk me through your Spring Boot setup here" will catch a stack that isn't real fast. Lead with whichever project genuinely used Spring Boot.
 
 ---
 
@@ -91,7 +93,6 @@ Built and shipped 6 enterprise-grade products used by thousands of end users, ow
 
 ## 📚 Currently Learning / Leveling Up
 
-- 🌱 Advanced Spring Boot, Spring Security & Hibernate
 - 🌱 Microservices architecture with Kafka
 - 🌱 Docker & Kubernetes for containerized deployments
 - 🌱 High-Level & Low-Level System Design (HLD/LLD)
